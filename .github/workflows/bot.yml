@@ -31,4 +31,13 @@ jobs:
       - name: Show database content
         run: |
           sqlite3 database.db "SELECT * FROM users;"
+      - name: Install sqlite-web
+        run: pip install sqlite-web
+
+      - name: Run sqlite-web
+        run: sqlite_web database.db --port 8080 &
+
+      - name: Show database logs
+        run: sqlite3 database.db "SELECT * FROM your_table_name;"
+
 
