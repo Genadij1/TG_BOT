@@ -28,3 +28,7 @@ jobs:
         run: python bot.py
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      - name: Show database content
+        run: |
+          sqlite3 database.db "SELECT * FROM users;"
+
