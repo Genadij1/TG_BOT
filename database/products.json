@@ -1,14 +1,14 @@
 [
     {
-        "name": " Nike",
-        "price": 2500,
+        "name": " ",
+        "price": ,
         "description": "",
-        "photo": "https://www.google.com/imgres?q=%D1%84%D0%BE%D1%82%D0%BE%20%D0%B0%D0%B4%D0%B8%D0%B4%D0%B0%D1%81%20%D0%BE%D0%B1%D1%83%D0%B2%D0%B8&imgurl=https%3A%2F%2Fkedoff.net%2Fimages%2Fproduct%2Flarge%2Fmujskie-krossovki-adidas-originals-iniki-runner-bb2092-img-3.jpg%3Fv%3D1548150352&imgrefurl=https%3A%2F%2Fkedoff.net%2Fproduct%2Fmujskie-krossovki-adidas-originals-iniki-runner-bb2092-29787.html&docid=2qSn7Scms1ToOM&tbnid=84x5rOefZowKMM&vet=12ahUKEwjP5LStx9SLAxUWgP0HHYsBCS8QM3oECGgQAA..i&w=1000&h=756&hcb=2&ved=2ahUKEwjP5LStx9SLAxUWgP0HHYsBCS8QM3oECGgQAA"
+        "photo": ""
     },
     {
         "name": "",
-        "price": 7500,
+        "price": ,
         "description": "",
-        "photo": "https://www.google.com/imgres?q=%D1%84%D0%BE%D1%82%D0%BE%20%D0%B0%D0%B4%D0%B8%D0%B4%D0%B0%D1%81%20%D0%BE%D0%B1%D1%83%D0%B2%D0%B8&imgurl=https%3A%2F%2Fkedoff.net%2Fimages%2Fproduct%2Flarge%2Fmujskie-krossovki-adidas-originals-iniki-runner-bb2092-img-3.jpg%3Fv%3D1548150352&imgrefurl=https%3A%2F%2Fkedoff.net%2Fproduct%2Fmujskie-krossovki-adidas-originals-iniki-runner-bb2092-29787.html&docid=2qSn7Scms1ToOM&tbnid=84x5rOefZowKMM&vet=12ahUKEwjP5LStx9SLAxUWgP0HHYsBCS8QM3oECGgQAA..i&w=1000&h=756&hcb=2&ved=2ahUKEwjP5LStx9SLAxUWgP0HHYsBCS8QM3oECGgQAA"
+        "photo": ""
     }
 ]
